@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\bin\Debug\ElevatorApp.exe.config
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\bin\Debug\ElevatorApp.exe
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\bin\Debug\ElevatorApp.pdb
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.Form1.resources
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.Properties.Resources.resources
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.exe
+C:\Users\user\source\repos\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.pdb
